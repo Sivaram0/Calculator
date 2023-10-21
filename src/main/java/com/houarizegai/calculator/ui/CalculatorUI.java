@@ -1,5 +1,5 @@
 package com.houarizegai.calculator.ui;
-
+   
 import com.houarizegai.calculator.theme.properties.Theme;
 import com.houarizegai.calculator.theme.ThemeLoader;
 

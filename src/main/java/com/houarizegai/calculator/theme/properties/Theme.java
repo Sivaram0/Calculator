@@ -1,6 +1,6 @@
 package com.houarizegai.calculator.theme.properties;
 
-public class Theme {
+public class Theme { 
 
     private String name;
     private String applicationBackground;
